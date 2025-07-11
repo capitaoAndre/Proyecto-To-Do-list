@@ -8,7 +8,7 @@ public class Main {
 
         do {
             System.out.println("==============================");
-            System.out.println("📝 TO-DO LIST - CONSOLA");
+            System.out.println("     TO-DO LIST - CONSOLA     ");
             System.out.println("==============================");
             System.out.println("1. Ver tareas");
             System.out.println("2. Agregar tareas");
